@@ -69,30 +69,6 @@
       "slug": "web-components-shadow-dom",
       "authorId": 1,
       "category": "HTML5"
-    },
-    {
-      "id": 11,
-      "title": "One more test",
-      "authorId": 1,
-      "category": "Other category",
-      "createdAt": 1611459439430,
-      "slug": "test"
-    },
-    {
-      "id": 12,
-      "title": "Other Software Engineer",
-      "authorId": 1,
-      "category": "asfe",
-      "createdAt": 1611459796539,
-      "slug": "software-engineer"
-    },
-    {
-      "id": 13,
-      "title": "Software Engineer",
-      "authorId": 1,
-      "category": "asfe",
-      "createdAt": 1611459823602,
-      "slug": "software-engineer"
     }
   ],
   "authors": [
